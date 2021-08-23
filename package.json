@@ -1,5 +1,5 @@
 {
-  "name": "chryseis-cli",
+  "name": "wuchao-cli",
   "version": "0.1.4",
   "description": "create front-end template",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "react",
     "website"
   ],
-  "git": "https://github.com/Chryseis/chryseis-cli.git",
+  "git": "https://github.com/chengwuchao/wuchao-cli.git",
   "author": "allen",
   "license": "ISC",
   "dependencies": {
