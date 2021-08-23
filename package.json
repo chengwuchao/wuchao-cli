@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "chrys": "bin/chrys.js",
-    "chrys-init": "bin/chrys-init.js"
+    "wuchao": "bin/wuchao.js",
+    "wuchao-init": "bin/wuchao-init.js"
   },
   "keywords": [
     "javascript",
