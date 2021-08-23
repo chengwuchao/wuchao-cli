@@ -1,2 +1,15 @@
-# wuchao-cli
-一个脚手架工具，用于拉取 github上的项目
+# chrys-cli
+## Summary
+quickly build front-end template
+## Start
+```
+npm i chryseis-cli -g
+```
+## Usage
+```
+chrys init react my-project 
+```
+or
+```
+chrys init website my-home
+```
