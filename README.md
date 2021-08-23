@@ -1,15 +1,15 @@
-# chrys-cli
+# wuchao-cli
 ## Summary
 quickly build front-end template
 ## Start
 ```
-npm i chryseis-cli -g
+npm i wuchao-cli -g
 ```
 ## Usage
 ```
-chrys init react my-project 
+wuchao init react my-project 
 ```
 or
 ```
-chrys init website my-home
+wuchao init website my-home
 ```

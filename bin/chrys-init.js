@@ -66,7 +66,7 @@ if (exists(to)) {
 function run() {
     const spinner = ora('downloading template')
     if (exists(to)) rm(to);
-    download(`Chryseis/chrys-${template}-template`, to, {clone: false}, function (err) {
+    download(`chengwuchao/wuchao-${template}-template`, to, {clone: false}, function (err) {
         spinner.stop()
         if (err) {
             console.log(chalk.red('download error!'));
